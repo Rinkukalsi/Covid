@@ -1,5 +1,5 @@
 # Covid
-### * registration form 
+* registration form 
 * Link up reistration into a database
 * Verification form
 * Page of content
