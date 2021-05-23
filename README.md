@@ -1,7 +1,7 @@
 # Covid
-* registration form 
+* registration form ☑️
 * Link up reistration into a database
-* Verification form
+* Verification form  ☑️
 * Page of content
     % Grocery
     % Sanitization Needs
