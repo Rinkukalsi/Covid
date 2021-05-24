@@ -15,6 +15,6 @@
     % Essential lifestyle Needs
     % Medicines
     % Catering services 
-    % List of all helpline numbers
+    % List of all helpline numbers ☑️
 
 **VOILA WE ARE DONE!**
