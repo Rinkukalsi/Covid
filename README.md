@@ -20,4 +20,18 @@ This solution will not only support the patients at home but will also help hosp
 3. flask-login  - backend
 4. bootstrap
 
+##Process Flow
+Front-end*
+Signin page
+Login page 
+Covid help(Services page)
+Making different page for each facility
+linking all services to their respective sections
+
+Backend*
+Signin database
+Login db=atabase
+verification 
+Database managements of the services
+Transactions maintance
 
