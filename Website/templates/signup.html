@@ -1,0 +1,48 @@
+{% extends "base.html" %} {% block title %}Sign Up{% endblock %} {% block
+    content %}
+    <form method="POST">
+      <h3 align="center">Sign Up</h3>
+      <div class="form-group">
+        <label for="email">Email Address</label>
+        <input
+          type="email"
+          class="form-control"
+          id="email"
+          name="email"
+          placeholder="Enter email"
+        />
+      </div>
+      <div class="form-group">
+        <label for="firstName">First Name</label>
+        <input
+          type="text"
+          class="form-control"
+          id="firstName"
+          name="firstName"
+          placeholder="Enter first name"
+        />
+      </div>
+      <div class="form-group">
+        <label for="Adhar_Number1">Adhar Number</label>
+        <input
+          type="password"
+          class="form-control"
+          id="Adhar_Number1"
+          name="Adhar_Number1"
+          placeholder="Enter Adhar Number"
+        />
+      </div>
+      <div class="form-group">
+        <label for="Adhar_Number2">Adhar Number (Confirm)</label>
+        <input
+          type="password"
+          class="form-control"
+          id="Adhar_Number2"
+          name="Adhar_Number2"
+          placeholder="Confirm Adhar Number"
+        />
+      </div>
+      <br />
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+    {% endblock %}

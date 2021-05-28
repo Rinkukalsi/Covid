@@ -1,0 +1,23 @@
+{% extends "base.html" %} {% block title %}Home{% endblock %}
+
+{% block navbar %} <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-toggle="collapse"
+      data-target="#navbar"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbar">
+      <div class="navbar-nav">
+        <a class="nav-item nav-link" id="home" href="/">Home</a>
+        <a class="nav-item nav-link" id="Grocerry" href="/grocerry">Grocerry</a>
+        <a class="nav-item nav-link" id="Medicine" href="/meds">Medicine</a>
+        <a class="nav-item nav-link" id="Helpline" href="/help-line">Helpline</a>
+        <a class="nav-item nav-link" id="Logout" href="/logout">Logout</a>
+      </div>
+    </div>
+  </nav> {% endblock %}
+
+  {% block content %} <h1>Covid Help</h1>{% endblock %}
