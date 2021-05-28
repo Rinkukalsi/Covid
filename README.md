@@ -17,4 +17,3 @@
     % Catering services 
     % List of all helpline numbers ☑️
 
-**VOILA WE ARE DONE!**
