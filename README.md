@@ -1,4 +1,4 @@
-# Self home maintaince during mild and modrate covid infection
+# Self home maintaince during mild and moderate covid infection
 
 ##VIDEO SUBMISSION: https://youtu.be/n9OurTrbVAw
 ## Discription
